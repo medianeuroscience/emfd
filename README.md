@@ -1,5 +1,4 @@
-# The Extended Moral Foundations Dictionary (eMFD):
-## Development and Applications of a Crowd-Sourced Moral Foundations Dictionary
+## The Extended Moral Foundations Dictionary (eMFD): Development and Applications of a Crowd-Sourced Moral Foundations Dictionary
 
 This is the official repository for all code and analyses conducted in: _The Extended Moral Foundations Dictionary (eMFD): Development and Applications of a Crowd-Sourced Moral Foundations Dictionary_
 

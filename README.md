@@ -5,8 +5,8 @@ This is the official repository for all code and analyses conducted in: _The Ext
 Contents:
 
 1.) Dictionaries:
-- emfd_scoring: The E-MFD for text scoring. 
-- emfd_amp: The E-MFD for usage with Affect Misattribution Procedures or Lexical Decision Tasks
+- emfd_scoring: The eMFD for text scoring.
+- emfd_amp: The eMFD for usage with Affect Misattribution Procedures or Lexical Decision Tasks
 - mfd2.0dic: The MFD2.0 (see https://osf.io/xakyw/)
 - mft_original: The original Moral Foundations Dictionary (see https://www.moralfoundations.org/othermaterials)
 

@@ -7,7 +7,7 @@ Hopp, F. R., Fisher, J. T., Cornell, D., Huskey, R., & Weber, R. (2020). The ext
 Contents:
 
 1.) Dictionaries:
-- emfd_scoring: The eMFD for text scoring.
+- emfd_scoring: The eMFD for text scoring (see also https://github.com/medianeuroscience/emfdscore). 
 - emfd_amp: The eMFD for usage within behavorial, experimental paradigms such as Moral Affect Misattribution Procedures (e.g., Tamborini, Prabhu, Lewis, Grizzard, & Eden, 2016) or Lexical Decision Tasks (e.g., Gantman & van Bavel, 2014; 2016)
 - mfd2.0dic: The MFD2.0 (see https://osf.io/xakyw/)
 - mft_original: The original Moral Foundations Dictionary (see https://www.moralfoundations.org/othermaterials)
